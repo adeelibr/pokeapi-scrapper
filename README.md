@@ -21,6 +21,13 @@ If you want to get more pokemon with the **pokeapi-scrapper** then do the follow
 
 This will get a data set of 150 pokemon
 
+## Minimum requirements
+
+Kindly ensure you use atleast the following versions;
+
+- **Node** `v12.16.1`
+- **npm** `6.13.4`
+
 ## Credits
 
 A huge huge credit to the amazing folks at [https://github.com/PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) for creating such an amazing service
