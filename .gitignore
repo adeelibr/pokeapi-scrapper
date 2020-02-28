@@ -1,0 +1,6 @@
+# dist
+node_modules
+/data.js
+
+# lock file(s)
+package-lock.json
